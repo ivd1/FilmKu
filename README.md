@@ -1,24 +1,31 @@
-FilmKu - SwiftUI Movie App
 
-Installation:
+# FilmKu - SwiftUI Movie App
 
-Clone the repo
+An app to browse new movies and save your favorite ones!
 
-$ git clone https://github.com/ivd1/FilmKu.git
-$ cd FilmKu
 
-Open in Xcode
+## Installation
 
-Open FilmKu.xcodeproj in Xcode 15.4+
+- Clone the repo
 
-Select an iPhone or an iPhone Simulator (iOS 17.6+ required)
+```bash
+  $ git clone https://github.com/ivd1/FilmKu.git 
+  $ cd FilmKu
+```
+- Open in Xcode
 
-Run the project
+- Open FilmKu.xcodeproj in Xcode 15.4+
 
-Requirements:
+- Select an iPhone or an iPhone Simulator (iOS 17.6+ required)
 
-Xcode 15.4+
+- Run the project
 
-iOS 17.6+
 
-Swift 5
+## Requirements
+
+- Xcode 15.4+
+
+- iOS 17.6+
+
+- Swift 5
+
